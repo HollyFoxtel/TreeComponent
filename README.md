@@ -1,2 +1,3 @@
 # TreeComponent
-Component
+
+This is tree component.
